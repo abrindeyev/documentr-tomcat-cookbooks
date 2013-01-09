@@ -1,0 +1,10 @@
+= DESCRIPTION:
+Deploys Documentr to Apache Tomcat
+= REQUIREMENTS:
+Require Apache Tomcat deployed
+= ATTRIBUTES:
+deploydir - deployment directory (webapps for Apache Tomcat)
+##
+[:documentr][:datadir] # Documentr data directory
+= USAGE:
+
